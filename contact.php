@@ -14,7 +14,7 @@
                 <h2>Contact</h2>
                 <div class="bread-crumb">
                     <ul class="clearfix">
-                        <li><span class="icon-home fa fa-home"></span><a href="index.html">Home</a></li>
+                        <li><span class="icon-home fa fa-home"></span><a href="index.php">Home</a></li>
                         <li class="current">Contact</li>
                     </ul>
                 </div>

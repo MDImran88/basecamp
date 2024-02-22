@@ -13,7 +13,7 @@
                 <h2>Shop</h2>
                 <div class="bread-crumb">
                     <ul class="clearfix">
-                        <li><span class="icon-home fa fa-home"></span><a href="index.html">Home</a></li>
+                        <li><span class="icon-home fa fa-home"></span><a href="index.php">Home</a></li>
                         <li class="current">Shop</li>
                     </ul>
                 </div>
@@ -218,8 +218,8 @@
                     </div>
                 </div>
                
-                <!--Block-->
-                <div class="prod-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
+                  <!--Block-->
+                  <div class="prod-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
                     <div class="inner-box">
                         <div class="why-block">
                             <div class="image-box">
@@ -229,6 +229,33 @@
                                         <div class="hvr-content">
                                             <div class="link">
                                                 <a href="images/resource/shop/prod-large-7.jpg" class="theme-btn lightbox-image">
+                                                <i class="far fa-eye"></i>
+                                                Quick View
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="lower-box">
+                                <h5><a href="#">Sleeping Bags</a></h5>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+               
+                <!--Block-->
+                <div class="prod-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="why-block">
+                            <div class="image-box">
+                                <div class="image"><a href="#"><img src="images/resource/shop/prod-8.jpg" alt=""></a></div>
+                                <div class="hvr-box">
+                                    <div class="hvr-inner">
+                                        <div class="hvr-content">
+                                            <div class="link">
+                                                <a href="images/resource/shop/prod-large-8.jpg" class="theme-btn lightbox-image">
                                                 <i class="far fa-eye"></i>
                                                 Quick View
                                                 </a>
