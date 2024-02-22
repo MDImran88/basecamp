@@ -252,7 +252,7 @@
                             <div class="hvr-box">
                                 <div class="cap-box">
                                     <div class="cap-inner clearfix">
-                                        <h4><a href="tours.html">Zanskar</a></h4>
+                                        <h4><a href="tours.html">Ladakh</a></h4>
                                         <div class="tour-count"><span>01 Tours</span></div>
                                     </div>
                                 </div>

@@ -32,7 +32,7 @@
                 <div class="inner clearfix">
                     <div class="top-left clearfix">
                         <ul class="info clearfix">
-                            <li><i class="icon fa fa-envelope"></i> <a href="mailto:mdnoorislamlari09@gmail.com">mdnoorislamlari09@gmail.com</a></li>
+                            <li><i class="icon fa fa-envelope"></i> <a href="mailto:basecampbazaar@gmail.com">basecampbazaar@gmail.com</a></li>
                             <li><i class="icon fa fa-phone-circle"></i> <a href="tel:+91 - 7827297121">+91 - 7827297121</a></li>
                             <li><i class="icon fa fa-phone-circle"></i> <a href="tel:+91 - 9555263823">+91 - 9555263823</a></li>
 
