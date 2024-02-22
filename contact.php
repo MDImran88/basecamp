@@ -96,29 +96,29 @@
                             <div class="loc-point loc-1">
                                 <div class="loc-icon"><img src="images/icons/loc-hover.svg" alt="" title=""></div>
                                 <div class="loc-popup">
-                                    <div class="text">Canada 45 Gloucester Road London T1M 3BF</div>
-                                    <div class="link"><a href="#">View on Map</a></div>
+                                    <div class="text">Kasol</div>
+                                    <div class="link"><a href="https://maps.app.goo.gl/vyKZuPQ82kJ8W92RA" target="_blank">View on Map</a></div>
                                 </div>
                             </div>
                             <div class="loc-point loc-2">
                                 <div class="loc-icon"><img src="images/icons/loc-hover.svg" alt="" title=""></div>
                                 <div class="loc-popup">
-                                    <div class="text">Canada 45 Gloucester Road London T1M 3BF</div>
-                                    <div class="link"><a href="#">View on Map</a></div>
+                                    <div class="text">Rishikesh</div>
+                                    <div class="link"><a href="https://maps.app.goo.gl/Jxm4Xm9XcA7FGk5U6" target="_blank">View on Map</a></div>
                                 </div>
                             </div>
                             <div class="loc-point loc-3">
                                 <div class="loc-icon"><img src="images/icons/loc-hover.svg" alt="" title=""></div>
                                 <div class="loc-popup">
-                                    <div class="text">Canada 45 Gloucester Road London T1M 3BF</div>
-                                    <div class="link"><a href="#">View on Map</a></div>
+                                    <div class="text">Dharamshala</div>
+                                    <div class="link"><a href="https://maps.app.goo.gl/hpqKMwTtVrwuSSQN7" target="_blank" >View on Map</a></div>
                                 </div>
                             </div>
                             <div class="loc-point loc-4">
                                 <div class="loc-icon"><img src="images/icons/loc-hover.svg" alt="" title=""></div>
                                 <div class="loc-popup">
-                                    <div class="text">Canada 45 Gloucester Road London T1M 3BF</div>
-                                    <div class="link"><a href="#">View on Map</a></div>
+                                    <div class="text">Shimla</div>
+                                    <div class="link"><a href="https://maps.app.goo.gl/eDX7iy4vS8YmMzBo6" target="_blank" >View on Map</a></div>
                                 </div>
                             </div>
                         </div>
@@ -134,7 +134,12 @@
                                 <div class="acc-content">
                                     <div class="content">
                                         <div class="text">
-                                            
+                                        If you get an error like "Your location cannot be determined" or your location is still wrong, here are some steps you can take:
+
+                                     <li> Reload your browser (such as Chrome, Firefox, or Safari).</li>  
+                                       <li> Check to make sure you have a strong internet connection.</li>
+                                        Double-check your browser’s permission settings using the instructions above.
+                                       <li></li>
                                     </div>
                                     </div>
                                 </div>
@@ -145,6 +150,7 @@
                                 <div class="acc-content">
                                     <div class="content">
                                         <div class="text">
+                                            Most important of the assets mobile,tablet,watch and any bluetooth assets.
                                             </div>
                                     </div>
                                 </div>
@@ -154,7 +160,7 @@
                                 <div class="acc-btn">How concerned should I be about the altitude? <i class="fa-regular fa-angle-down"></i></div>
                                 <div class="acc-content">
                                     <div class="content">
-                                        <div class="text">One of the major benefits of trekking is that it improves your physical health immensely. Spending multiple hours on the trail, climbing around boulders.</div>
+                                        <div class="text">Trekking offers a multitude of advantages, with one of the most prominent being its profound impact on physical health. Engaging in this activity for extended periods involves traversing various terrains, navigating challenging landscapes, and overcoming obstacles like boulders. This exertion not only enhances cardiovascular endurance but also strengthens muscles, improves flexibility, and boosts overall stamina. Thus, trekking presents a holistic approach to physical fitness, promoting vitality and well-being through immersive outdoor experiences.</div>
                                     </div>
                                 </div>
                             </div>
