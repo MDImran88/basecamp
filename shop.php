@@ -218,11 +218,38 @@
                     </div>
                 </div>
                
+                <!--Block-->
+                <div class="prod-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="why-block">
+                            <div class="image-box">
+                                <div class="image"><a href="#"><img src="images/resource/shop/prod-7.jpg" alt=""></a></div>
+                                <div class="hvr-box">
+                                    <div class="hvr-inner">
+                                        <div class="hvr-content">
+                                            <div class="link">
+                                                <a href="images/resource/shop/prod-large-7.jpg" class="theme-btn lightbox-image">
+                                                <i class="far fa-eye"></i>
+                                                Quick View
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="lower-box">
+                                <h5><a href="#">Camping & Trekking Accessories</a></h5>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+               
                
 
             </div>
 
-            <div class="see-more-link"><a href="#" class="theme-btn btn-style-one"><span>Load More......</span></a></div>
+            <!-- <div class="see-more-link"><a href="#" class="theme-btn btn-style-one"><span>Load More......</span></a></div> -->
         </div>
     </section>
 

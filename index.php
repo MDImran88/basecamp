@@ -182,7 +182,7 @@
                             <div class="hvr-box">
                                 <div class="cap-box">
                                     <div class="cap-inner clearfix">
-                                        <h4><a href="tours.html">Rajasthan</a></h4>
+                                        <h4><a href="tours.html">Rishikesh</a></h4>
                                         <div class="tour-count"><span>15 Tours</span></div>
                                     </div>
                                 </div>
@@ -196,8 +196,8 @@
                             <div class="hvr-box alt-hvr">
                                 <div class="cap-box">
                                     <div class="cap-inner clearfix">
-                                        <h4><a href="tours.html">Rajasthan</a></h4>
-                                        <div class="tour-count"><span>15 Tours</span></div>
+                                        <h4><a href="tours.html">Dharamshala</a></h4>
+                                        <div class="tour-count"><span>09 Tours</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -210,8 +210,8 @@
                             <div class="hvr-box">
                                 <div class="cap-box">
                                     <div class="cap-inner clearfix">
-                                        <h4><a href="tours.html">Rajasthan</a></h4>
-                                        <div class="tour-count"><span>15 Tours</span></div>
+                                        <h4><a href="tours.html">Kasol</a></h4>
+                                        <div class="tour-count"><span>25 Tours</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -224,8 +224,8 @@
                             <div class="hvr-box">
                                 <div class="cap-box">
                                     <div class="cap-inner clearfix">
-                                        <h4><a href="tours.html">Rajasthan</a></h4>
-                                        <div class="tour-count"><span>15 Tours</span></div>
+                                        <h4><a href="tours.html">Shimla</a></h4>
+                                        <div class="tour-count"><span>04 Tours</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -238,8 +238,8 @@
                             <div class="hvr-box alt-hvr">
                                 <div class="cap-box">
                                     <div class="cap-inner clearfix">
-                                        <h4><a href="tours.html">Rajasthan</a></h4>
-                                        <div class="tour-count"><span>15 Tours</span></div>
+                                        <h4><a href="tours.html">Chopta</a></h4>
+                                        <div class="tour-count"><span>02 Tours</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -252,8 +252,8 @@
                             <div class="hvr-box">
                                 <div class="cap-box">
                                     <div class="cap-inner clearfix">
-                                        <h4><a href="tours.html">Rajasthan</a></h4>
-                                        <div class="tour-count"><span>15 Tours</span></div>
+                                        <h4><a href="tours.html">Zanskar</a></h4>
+                                        <div class="tour-count"><span>01 Tours</span></div>
                                     </div>
                                 </div>
                             </div>
