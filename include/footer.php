@@ -46,19 +46,18 @@
                             <h6>Contact US</h6>
                             <!--Logo-->
                                 <div class="info">
-                                    <ul>
-                                        <li> <span>Address :</span>  Gali no 3, Ashram road, near Vrindavan Hospital, Shaberi, Greater Noida West, Uttar Pradesh 201009</li>
+                                <ul>
+                                        <li> <span>Address :</span>  Khasra No. 118, Plot No. 231, Idea Gali, Shahberi, Greater Noida West, 201009</li>
                                         <li>Mobile No: <a href="tel:+91 - 7827297121">+91 - 7827297121</a></li>
-                                        <li>Email ID: <a href="mailto:mdnoorislamlari09@gmail.com">mdnoorislamlari09@gmail.com</a></li>
+                                        <li>Email ID: <a href="mailto:basecampbazaar@gmail.com">basecampbazaar@gmail.com</a></li>
                                     </ul>
                                 </div>
                                 <div class="social-links mt-4">
-                                    <ul class="clearfix">
-                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                                    </ul>
+                                <ul class="clearfix">
+                                <li><a href="https://www.facebook.com/profile.php?id=61556962220390" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="https://www.youtube.com/@BasecampBazaar" target="_blank"><i class="fab fa-youtube"></i></a></li>
+                                <li><a href="https://www.instagram.com/basecampbazaar/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                            </ul>
                                 </div>
                              </div>
 

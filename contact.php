@@ -175,7 +175,7 @@
     <section class="map-section">
         <!--Map Box-->
         <div class="map-box">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3608.443278930481!2d55.30389370154939!3d25.25566963673736!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f43254acb00ad%3A0xdbc6ee1faaf3a3c6!2sBank%20Street%20Building%20-%20UBL%20Buidling%20Bur%20Dubai%2C%20Dubai%20-%20D79%20-%20Al%20Mankhool%20-%20Dubai!5e0!3m2!1sen!2sae!4v1636553029034!5m2!1sen!2sae" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3502.3164021614443!2d77.4388611!3d28.6202778!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjjCsDM3JzEzLjAiTiA3N8KwMjYnMTkuOSJF!5e0!3m2!1sen!2sin!4v1709207421167!5m2!1sen!2sin" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"  allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
         </div>
     </section>
 

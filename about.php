@@ -82,6 +82,7 @@ Whether you're a seasoned explorer or a weekend warrior, we're here to support y
         <div class="auto-container">
 
             <div class="title-box centered">
+                <div class="subtitle">We Are Awesome</div>
                 <h2><span>Why Choose Basecamp Baazar</span></h2>
             </div>
 
@@ -90,23 +91,25 @@ Whether you're a seasoned explorer or a weekend warrior, we're here to support y
                     <div class="inner">
                         <div class="why-block">
                             <div class="inner-box">
-                                <div class="icon-box"><img src="images/resource/icon-1.svg" class="svg-img" alt=""></div>
+                                <div class="icon-box">
+                                <object type="image/svg+xml" data="images/resource/icon-1.svg" class="svg-img"> </object>
+                                </div>
                                 <h4>Diverse Destinations</h4>
-                                <div class="text">Richly varied landscapes, luxury accommodation Travel.</div>
+                                <div class="text">Wanderlust" perfectly captures that insatiable desire to explore and travel. </div>
                             </div>
                         </div>
                         <div class="why-block">
                             <div class="inner-box">
                                 <div class="icon-box"><img src="images/resource/icon-2.svg" class="svg-img" alt=""></div>
                                 <h4>Value for Money</h4>
-                                <div class="text">Richly varied landscapes, luxury accommodation Travel.</div>
+                                <div class="text">Everything good doesn't have to cost a fortune. It can also be affordable.</div>
                             </div>
                         </div>
                         <div class="why-block">
                             <div class="inner-box">
                                 <div class="icon-box"><img src="images/resource/icon-3.svg" class="svg-img" alt=""></div>
                                 <h4>Beautiful Places</h4>
-                                <div class="text">Richly varied landscapes, luxury accommodation Travel.</div>
+                                <div class="text">Explore the Earth's beauty at its best. Our experience can help you plan better.</div>
                             </div>
                         </div>
                     </div>
@@ -118,21 +121,22 @@ Whether you're a seasoned explorer or a weekend warrior, we're here to support y
                             <div class="inner-box">
                                 <div class="icon-box"><img src="images/resource/icon-4.svg" class="svg-img" alt=""></div>
                                 <h4>Fast Booking</h4>
-                                <div class="text">Richly varied landscapes, luxury accommodation Travel.</div>
+                                <div class="text">We are just a click away. Get in touch and experience the ease of planning a perfect travel </div>
                             </div>
                         </div>
                         <div class="why-block">
                             <div class="inner-box">
                                 <div class="icon-box"><img src="images/resource/icon-5.svg" class="svg-img" alt=""></div>
                                 <h4>Support Team</h4>
-                                <div class="text">Richly varied landscapes, luxury accommodation Travel.</div>
+                                <div class="text">Our team is always eager to help you in any way. Customer satisfaction is our prime goal.
+            </div>
                             </div>
                         </div>
                         <div class="why-block">
                             <div class="inner-box">
                                 <div class="icon-box"><img src="images/resource/icon-6.svg" class="svg-img" alt=""></div>
                                 <h4>Passionate Travel</h4>
-                                <div class="text">Richly varied landscapes, luxury accommodation Travel.</div>
+                                <div class="text">Our passion for travel keeps us going and doing wonders for everyone around us.</div>
                             </div>
                         </div>
                     </div>
@@ -140,7 +144,7 @@ Whether you're a seasoned explorer or a weekend warrior, we're here to support y
 
                 <div class="image-col col-xl-6 col-lg-4 col-md-12 col-sm-12">
                     <div class="inner">
-                        <div class="image-box"><img src="images/resource/why-image-1.svg" alt=""></div>
+                        <div class="image-box"><img src="images/resource/why-image-1.svg"  alt=""></div>
                     </div>
                 </div>
 
